@@ -2,6 +2,11 @@
 
 Csharp Documentation Generator from XML File
 
+### Important
+
+Actually, i can't upload the code because it's pretty ugly lol.
+You can try to download your documentation with this online demo : https://julienravia.fr/doc/
+
 Code example for generating documentation : 
 ```
 <?php
